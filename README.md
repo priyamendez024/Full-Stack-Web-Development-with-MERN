@@ -1,2 +1,2 @@
-# Full-Stack-Web-Development-with-MERN
-   MongoDB, Express, React &amp; Node.js in One Complete Guide
+# Chapter 1: Getting Started
+Setup instructions, tools installation, and project structure overview.

@@ -1,0 +1,1 @@
+High-level architecture and data model diagrams referenced here.
